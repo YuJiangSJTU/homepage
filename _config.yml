@@ -17,9 +17,9 @@ author:
   name             : "Richard Yu Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Additive Manufacturing, PhD at University of Cambridge"
-  location         : "Cambridge UK"
+  location         : "Cambridge, UK"
   employer         : "Institute for Manufacturing (IfM)"
-  #uri              : "https://www.layerconstruction.com"
+  uri              : "https://www.ifm.eng.cam.ac.uk/people/yj321/"
   email            : "yj321@cam.ac.uk" 
 
   # Academic websites
@@ -30,8 +30,6 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Yu-Jiang-5"
-  uri              : "https://www.layerconstruction.com"
-  uri              : "https://iam-lab.com"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
