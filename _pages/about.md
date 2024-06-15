@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Richard is a 3D printing professional specialising in architectural structure additive manufacturing, at PhD researcher at Institution for Manufacturing (IfM) at University of Cambridge. Professor [Ronan Daly](https://www.eng.cam.ac.uk/profiles/rd439) 
+Richard is a 3D printing professional specialising in architectural structure additive manufacturing, at PhD researcher at Institution for Manufacturing (IfM) at University of Cambridge. Professor [Ronan Daly](https://www.eng.cam.ac.uk/profiles/rd439) and [Ronan Daly]([https://www.eng.cam.ac.uk/profiles/rd439](https://www.eng.cam.ac.uk/profiles/aa22))
 
 Having a BS in civil engineering and pursuing his PhD at the Institute for Manufacturing (IfM), Cambridge, Richard is passionate about automation in the construction sector and providing an efficient, customised & greener solution to solve the current housing crisis worldwide. Affordable houses should be accessible to every community and family across the globe. That is his goal of career. 
 
