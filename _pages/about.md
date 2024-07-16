@@ -10,7 +10,6 @@ redirect_from:
 Hi there! I am a 3D printing professional specialising in 3D printing of cementitious materials with time-dependent viscoelastic rheology. 
 
 **<span style="color: red;">I am actively looking for full-time postdoc opportunities in top-tier research institutes. I am also open to exciting industry jobs should great opportunity arises.</span>**
-------
 
 I am a final year doctoral reseracher at Institution for Manufacturing [(IfM)](https://www.ifm.eng.cam.ac.uk/) at University of Cambridge. As part of [Fluids in Advanced Manufacturing](https://www.ifm.eng.cam.ac.uk/research/fiam/), my work is supervised by Prof [Ronan Daly](https://www.ifm.eng.cam.ac.uk/people/rd439/) and Prof [Abir Al-Tabbaa](https://www.eng.cam.ac.uk/profiles/aa22).I am dedicated to additive manufacturing for construction applications, aiming for print quality improvement by better harnessing the time-dependent rheological properties of cementitious materials and interfacial bonding strength improvement through various techniques. Previously, I obtained my BSc in Civil Engineering at Shanghai Jiao Tong University supervised by Prof [Bing Chen](https://orcid.org/0000-0003-2862-3392). 
 
